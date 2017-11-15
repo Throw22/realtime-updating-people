@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Throw22/realtime-updating-people#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "mysql": "^2.15.0",
+    "mysql2": "^1.5.0",
+    "sequelize": "^4.22.6",
     "socket.io": "^2.0.4",
     "socket.io-client": "^2.0.4"
   }
